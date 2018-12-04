@@ -15,6 +15,7 @@ namespace TrussDBViewer
 {
     public class DataAccess
     {
+        //TESTING THE GITHUB REPO COMMIT WITH A COMMENT
         string strSqliteConn = ConfigurationManager.ConnectionStrings["DBConnString"].ToString();
         //SQLiteConnection sqlConn = new SQLiteConnection();
 
